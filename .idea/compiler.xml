@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaFx-UI-controls" target="1.5" />
+      <module name="JavaFx-UI-controls" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
